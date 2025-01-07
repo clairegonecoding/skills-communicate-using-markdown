@@ -12,3 +12,10 @@ Here I have tested the 6 different types of headers.
 ``` javascript
 var myVar = "Hello World!";
 ```
+
+- [x] Play around with different types of headers
+- [x] Add an image to the file
+- [x] Add a code example to the file
+- [x] Add a task list to the file
+- [ ] Finish this assignment
+- [ ] This item is not complete
